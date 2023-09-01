@@ -12,7 +12,7 @@ lang: pt-BR
 title: "Polyana Bittar"
 
 # A description of your site for meta tag, search engine results.
-description: "Artigos escritos por Polyana Bittar"
+description: "Aqui você vai encontrar um pouco de tudo que eu aprendi e quero compartilhar."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -28,22 +28,16 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Início
     url: /
-  - text: About
+  - text: Sobre a autora
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#894bcf'
 
 # Site footer
 footer:
