@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About this blog
+title: Sobre esse blog
 description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Polyana Bittar** é desenvolvedora de software na Zup e, embora more em São Paulo, trabalha em modelo remoto. Depois da sua graduação em Engenharia Elétrica pela Universidade Federal de Itajubá em 2020, onde iniciou seu contato com a programação, decidiu realizar uma transição de carreira para o TI.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Apaixonada por tecnologia e sempre buscando evoluir ao programar em Java, implantar soluções em nuvem AWS e fazer modelagem de dados.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>Vamos compartilhar? 
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Como hobby, Polyana gosta de ouvir música e cantar, ver filmes e séries de suspense e policiais, ler ao ar livre e, agora, atualizar esse blog.
 
-*Thank You for reading!*
+*Obrigada pela leitura!*
